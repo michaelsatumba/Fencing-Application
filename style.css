@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.title {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.inputs {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-bottom: 10px;
+}
+
+#map {
+	width: 98vw;
+	height: 80vh;
+}
+
+
+
+
